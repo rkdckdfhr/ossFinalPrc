@@ -1,6 +1,7 @@
 #include "sub.h"
 
 int sub(int x, int y)
-{
-	return 0;
+{	
+	// dev/a
+	return x - y;
 }
