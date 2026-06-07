@@ -2,5 +2,6 @@
 
 int mod(int x, int y)
 {
-	return 0;
+	//dev/b
+	return x % y;
 }
