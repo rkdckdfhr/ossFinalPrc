@@ -2,5 +2,6 @@
 
 int mul(int x, int y)
 {
-	return 0;
+	/// dev/c mul.cpp modify
+	return x * y;
 }
